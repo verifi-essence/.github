@@ -1,4 +1,4 @@
-## Verifi
+## Verifi : The complete offline OTP solution
 
 
 Verifi do 2 step authentication even on the locations where the cellular network is weak or very poor. Verifi will be using a common token to authenticate between the server and the registered user, to increase the security instead of using token directly like the traditional way. 
